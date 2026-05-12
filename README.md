@@ -14,7 +14,7 @@ Digital Media: Computer Science Programming (April 2024, GPA 3.44).
   auditing. Features include multi-tenant organization management, 2FA,
   AES-256-GCM encryption, a five-report financial suite, Month-End Close
   workflows, file import (Excel/CSV), and QuickBooks/Xero export. 130 passing
-  tests across the stack.
+  tests across the stack. *Source code private — built for a client.*
 
 - **Service Health Monitor** — Full-stack web application built during my
   Herzog software engineering internship (React frontend + Python/Django
@@ -25,8 +25,8 @@ Digital Media: Computer Science Programming (April 2024, GPA 3.44).
 - **3D Godot Platformer** ([`blackmorgan-studios`](https://github.com/WyattMorgan20/blackmorgan-studios))
   — Co-developed 3D platformer for Foundations of Game Development. Built in
   Godot with GDScript, custom keyframed animations via AnimationPlayer, and
-  dynamic playback speed tied to player and mob state. WebAssembly build for
-  playable browser demo.
+  dynamic playback speed tied to player and mob state. WebAssembly build —
+  [play it in your browser](https://wyattmorgan20.github.io/blackmorgan-studios/).
 
 - **Graduate Algorithms Projects** — Spring 2026 coursework covering
   Tribonacci timing analysis, Minimum Spanning Tree implementations, and a
