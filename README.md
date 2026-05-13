@@ -8,7 +8,7 @@ Digital Media: Computer Science Programming (April 2024, GPA 3.44).
 
 ## What I've shipped
 
-- **Balancd** — Year-long graduate capstone (Aug 2024 – May 2026). An
+- **Balancd** — Year-long graduate capstone (Aug 2025 – May 2026). An
   AI-assisted bookkeeping desktop application built with Tauri (Rust +
   React/TypeScript) and integrated with the Anthropic Claude API for automated
   auditing. Features include multi-tenant organization management, 2FA,
